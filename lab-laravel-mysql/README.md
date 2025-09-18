@@ -1,13 +1,13 @@
 # Laboratorio Laravel
 
 ## Universidad
-[Tu Universidad]
+Universidad Adventista
 
 ## Materia
 Taller de Programación
 
 ## Estudiante
-[Tu Nombre]
+Cristhian Cepeda 
 
 ## Proyecto
 lab-laravel-
